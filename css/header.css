@@ -1,0 +1,42 @@
+/* Rectangle 1 */
+header{
+    position: absolute;
+    width: 1440px;
+    height: 167px;
+    left: 0px;
+    top: 0px;
+
+    background: #3DDC44;
+}
+
+/* estante-para-libros 1 */
+header img{
+    position: absolute;
+    width: 118px;
+    height: 129px;
+    left: 68px;
+    top: 19px;
+
+    background: url(estante-para-libros.png);
+}
+
+
+
+/* Sistema de Reservas y Préstamos de Bibliotecas */
+header h1{
+    position: absolute;
+    width: 946px;
+    height: 48px;
+    left: 268px;
+    top: 59px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+
+    color: #FFFFFF;
+}
+
+
